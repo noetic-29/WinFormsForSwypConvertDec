@@ -1,0 +1,43 @@
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\bin\Debug\WinFormsForSwypConvert.exe.config
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvertDec.csprojResolveAssemblyReference.cache
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.BuildJSON.resources
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.frmKonUserParams.resources
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.frmKonVertSet.resources
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.frmKonVertUnit.resources
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.frmKonVersionGroup.resources
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.frmTestKonversion.resources
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.Properties.Resources.resources
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvertDec.csproj.GenerateResource.Cache
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\bin\Debug\WinFormsForSwypConvert.exe
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\bin\Debug\WinFormsForSwypConvert.pdb
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\bin\Debug\KonVertWinDesk.dll
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\bin\Debug\KonVertWinDesk.pdb
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\bin\Debug\Newtonsoft.Json.pdb
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\bin\Debug\Newtonsoft.Json.xml
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.exe
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.pdb
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\bin\Debug\zTimer.dll
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\bin\Debug\zTimer.pdb
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.frmAllTimers.resources
+C:\aTFSRepository\KonVertObjects\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.frmTimer.resources
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\bin\Debug\WinFormsForSwypConvert.exe.config
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\bin\Debug\WinFormsForSwypConvert.exe
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\bin\Debug\WinFormsForSwypConvert.pdb
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\bin\Debug\Newtonsoft.Json.dll
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.BuildJSON.resources
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.frmAllTimers.resources
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.frmKonUserParams.resources
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.frmKonVertSet.resources
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.frmKonVertUnit.resources
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.frmKonVersionGroup.resources
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.frmTestKonversion.resources
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.frmTimer.resources
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.Properties.Resources.resources
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvertDec.csproj.GenerateResource.Cache
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvertDec.csproj.CoreCompileInputs.cache
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.exe
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvert.pdb
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\bin\Debug\KonVertObjs.dll
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\bin\Debug\KonVertObjs.pdb
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\bin\Debug\Newtonsoft.Json.xml
+Z:\Toshiba Host C\HOLD\KonVertObjs\WinFormsForSwypConvertDec\WinFormsForSwypConvert\obj\Debug\WinFormsForSwypConvertDec.csprojResolveAssemblyReference.cache
